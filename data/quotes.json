@@ -17,5 +17,10 @@
 {
     "text":"this is five quote",
     "author":"author 5"
+},
+{
+    "text":"this is six quote",
+    "author":"author 6"
 }
+ 
 ]
