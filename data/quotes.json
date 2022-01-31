@@ -9,5 +9,9 @@
 {
     "text":"this is third quote",
     "author":"author 3"
+},
+{
+    "text":"this is four quote",
+    "author":"author 4"
 }
 ]
